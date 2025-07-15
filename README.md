@@ -20,3 +20,10 @@ The features available in the dataset and which are used are as follows
 ![class_dist](output/correlation_heatmap.png)
 ### BMI Distribution in population
 ![class_dist](output/bmi_dist.png)
+
+## Feature-based
+### Risk factor on insulin levels
+![class_dict](output/insulin.png)
+### Risk factor on glucose levels
+![class_dict](output/glucose.png)
+
