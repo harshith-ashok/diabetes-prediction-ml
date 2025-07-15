@@ -2,7 +2,7 @@
 I made this project to learn different concepts in prediction and is a simple tool to  visualize different features which is used to predict if the patient has diabetes.
 
 > [!NOTE]
-> This repository is a example project I am working on while I learn ML, Visualization and Math fro Comp.sci
+> This repository is a example project I am working on while I learn ML, Visualization and Math for Comp.sci
 
 ## Dataset
 The features available in the dataset and which are used are as follows
